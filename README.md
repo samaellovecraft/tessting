@@ -1,4 +1,4 @@
-# Cthulhu Fthagn <img src="fsociety.svg" width="28px" height="28px" alt="hi">
+# Cthulhu Fthagn <picture><source media="(prefers-color-scheme: dark)" srcset="./svg/white/fsociety.svg"><source media="(prefers-color-scheme: light)" srcset="./svg/black/fsociety.svg"><img src="" width="28px" height="28px" alt="hello_friend"></picture>
 
 # Cthulhu Fthagn <img src="fsociety.svg" width="21px" height="21px" alt="hi">
 
