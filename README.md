@@ -6,4 +6,5 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="./robots3white.svg">
  <source media="(prefers-color-scheme: light)" srcset="./robots3black.svg">
+ <img alt="" src="YOUR-DEFAULT-IMAGE">
 </picture>
