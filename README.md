@@ -1,5 +1,8 @@
 # Cthulhu Fthagn <img src="fsociety.svg" width="28px" height="28px" alt="hi">
 
+# Cthulhu Fthagn <img src="fsociety.svg" width="21px" height="21px" alt="hi">
+
+# Cthulhu Fthagn <img src="fsociety.svg" alt="hi">
 
 ![Alt text](./robots3white.svg)
 <img src="./robots3black.svg">
