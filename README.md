@@ -1,4 +1,4 @@
-# Cthulhu Fthagn <img src="Cthulhu_symbol_JH.svg" width="28px" height="28px" alt="hi">
+# Cthulhu Fthagn <img src="Cthulhu_symbol_JH.svg" alt="hi">
 
 
 ![Alt text](./robots3white.svg)
@@ -24,7 +24,7 @@
 </picture>
 
 <picture>
- <img alt="" src="LD+R Ofer's Snake EatSelf.svg">
+ <img alt="" src="LD+R Ofer's Snake EatSelf.svg" width="28px" height="28px">
 </picture>
 
 <picture>
