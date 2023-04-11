@@ -1,9 +1,9 @@
 # Cthulhu Fthagn <picture><source media="(prefers-color-scheme: dark)" srcset="./svg/white/fsociety.svg"><source media="(prefers-color-scheme: light)" srcset="./svg/black/fsociety.svg"><img src="" width="28px" height="28px" alt="hello_friend"></picture>
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/cybersamurai2121.png" alt="TryHackMe">
+<img src="https://www.hackthebox.eu/badge/image/1007130" align="left"><img src="https://tryhackme-badges.s3.amazonaws.com/cybersamurai2121.png" alt="TryHackMe" align="right">
 
-<img src="https://www.hackthebox.eu/badge/image/1007130">
+
 # Cthulhu Fthagn <img src="fsociety.svg" width="21px" height="21px" alt="hi">
 
 # Cthulhu Fthagn <img src="fsociety.svg" alt="hi">
