@@ -1,4 +1,4 @@
-# Cthulhu Fthagn <img src="Cthulhu_symbol_JH.svg" alt="hi">
+# Cthulhu Fthagn <img src="Cthulhu_symbol_JH.svg" width="69px" height="69px" alt="hi">
 
 
 ![Alt text](./robots3white.svg)
