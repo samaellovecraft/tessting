@@ -25,3 +25,11 @@
 <picture>
  <img alt="" src="LD+R Ofer's Snake EatSelf.svg">
 </picture>
+
+<picture>
+ <img alt="" src="green.svg">
+</picture>
+
+<picture>
+ <img alt="" src="purple.svg">
+</picture>
