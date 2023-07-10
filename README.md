@@ -3,7 +3,10 @@
 test
 
 <img src="https://www.hackthebox.eu/badge/image/1007130" align="left"><img src="https://tryhackme-badges.s3.amazonaws.com/cybersamurai2121.png" alt="TryHackMe" align="right">
-
+<br>
+<br>
+<img src="https://tryhackme.com/badge/1092478" align="left">
+<script src="https://tryhackme.com/badge/1092478"></script>
 test 
 
 # Cthulhu Fthagn <img src="fsociety.svg" width="21px" height="21px" alt="hi">
